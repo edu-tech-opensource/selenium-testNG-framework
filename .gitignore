@@ -1,0 +1,21 @@
+# Selenium-specific files and directories
+*.log
+*.class
+*.jar
+geckodriver.log
+chromedriver.log
+*.tmp
+.screenshots/
+.reports/
+
+# IDE-specific files and directories
+.idea/
+*.iml
+.vscode/
+
+# Test output directories
+target/
+out/
+build/
+bin/
+test-output/
