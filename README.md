@@ -10,16 +10,15 @@ selenium-testNG-framework/
 │   ├── test/
 │   │   └── java/
 │   │       └── cucumberOption/
-│   │           └── CucumberRunner.java
+│   │       |   └── CucumberRunner.java
+│   |       ├── features/
+│   |       ├── pageObjects/
+│   |       ├── stepDefinitions/
+│   |       └── utils/
 │   ├── resources/
 │   │   ├── features/
 │   │   ├── pageObjects/
 │   │   └── utils/
-│   └── java/
-│       ├── features/
-│       ├── pageObjects/
-│       ├── stepDefinitions/
-│       └── utils/
 ├── target/
 ├── pom.xml
 └── README.md
